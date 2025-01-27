@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohashei
-- 👀 I’m interested in Machine Learning and Physics.
-- 🌱 I’m currently learning about Alphafold2.
+- 👀 I’m interested in Machine Learning, Physics, and Biology!
 - 💞️ I’m looking to collaborate on deep learning projects!
 - 📫 How to reach me: sheikh.mohammed.azeem@gmail.com
 
